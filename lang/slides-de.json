@@ -63,7 +63,8 @@
 		},
 		{
 			"tag_name": "redthin",
-			"color": "c16464"
+			"color": "c16464",
+			"fontSize": "22"
 		},
 		{
 			"tag_name": "boldtxt",
