@@ -62,10 +62,16 @@
 			"color": "c16464"
 		},
 		{
-			"tag_name": "redthin",
+			"tag_name": "redthin28",
 			"color": "c16464",
-			"fontSize": "30"
+			"fontSize": "28"
 		},
+		{
+			"tag_name": "redthin",
+			"color": "c16464"
+
+		},
+
 		{
 			"tag_name": "boldtxt",
 			"fontWeight": "bold"
@@ -78,12 +84,12 @@
 	],
 	"Categories": [
 		{
-			"categoryName": "Sortimentsbewirtschaftung",
+			"categoryName": "<font24>Sortimentsbewirtschaftung</font24>",
 			"FlashCardMaker": "Kristoffer Ditz",
 			"explanation": "Wenn Sie nach Definitionen gefragt werden, geben Sie am besten immer eine Begründung und ein Beispiel dazu. Dies ist das Konzept der ABB-Methode \n\nABB steht hier für Aussage, Begründung und Beispiel. Selbst wenn Ihre Definition falsch ist, aber ihre Begründung bzw. Beispiel richtig, erhalten Sie Teilpunkte.",
 			"slides": [
 				{
-					"First Side": "Nennen Sie 3 \n<redthin>Filtermöglichkeiten</redthin> \n\n<font16>(3 Punkte)</font16>",
+					"First Side": "Nennen Sie 3 \n<redthin28>Filtermöglichkeiten</redthin28> \n\n<font16>(3 Punkte)</font16>",
 					"Second Side": "<font24>- Farbe \n- Größe \n- Marke </font24>",
 					"Learn more": "Wenn ein Besucher die Suche in einem <bold>Online-Shop</bold> nutzt, möchte er möglichst schnell und ohne Umwege zum Produkt der Wahl geführt werden. \n\n<bold>Klassische Filterfunktionen</bold> sind je nach Sortiment z. B. <redthin>Konfektionsgröße, Farbe, Hersteller, Lieferbarkeit</redthin>, vielleicht auch der Preis. \n\nDazu gehört nicht nur, dass die verschiedenen <bold>Filter-Attribute</bold> immer zusammen ausgewertet werden, sondern auch, dass für ein Attribut <bold>mehrere Werte</bold> angegeben werden können. \n\nWenn ich z. B. Schuhe suche, und mir <redthin>rot</redthin> und <redthin>grün</redthin> gefällt, dann sollte ich die beiden Farben auch zusammen auswählen können. Es werden mir dann alle <redthin>roten</redthin> <bold>UND</bold> alle <redthin>grünen</redthin> Schuhe angezeigt. \n\n\n<link href='https://www.web-grips.de/blog/produktsuche-in-online-shops-iv-filterfunktion/'>WEB-Grips</link>"
 				},
